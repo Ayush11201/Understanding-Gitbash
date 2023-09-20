@@ -1,0 +1,2 @@
+understanding Git
+using gitbash using command line
